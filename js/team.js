@@ -1,0 +1,9 @@
+$(".tm1").click(function(){
+    $("#team-member-1").modal('show');
+    });
+$(".tm2").click(function(){
+    $("#team-member-2").modal('show');
+    });
+$(".tm3").click(function(){
+    $("#team-member-3").modal('show');
+    });
